@@ -1,0 +1,31 @@
+{
+    "Accesibilidad": [
+        "TP19_ALC_1",
+        "TP19_GAS_1"
+    ],
+    "Ambiental": [
+        "TP9_3_USO",
+        "TVIVIENDA",
+        "TP14_1_TIP",
+        "TP15_3_OCU",
+        "TP16_HOG"
+    ],
+    "Demogr\u00e1fica": [
+        "TP27_PERSO",
+        "TP51SUPERI",
+        "TP32_2_SEX",
+        "TP15_1_OCU",
+        "TP19_EE_E4"
+    ],
+    "Econ\u00f3mica": [
+        "TP9_1_USO",
+        "CTNENCUEST",
+        "TP3_2_NO",
+        "TP4_2_NO",
+        "TP19_ACU_1"
+    ],
+    "Laboral": [
+        "TP19_EE_1",
+        "TP19_EE_E2"
+    ]
+}

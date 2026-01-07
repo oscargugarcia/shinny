@@ -1,0 +1,42 @@
+{
+    "Accesibilidad": [
+        "min_dist",
+        "avg_dist",
+        "n_paraderos",
+        "n_rutas"
+    ],
+    "Afiliados": [
+        "n_afiliados",
+        "hta",
+        "dm",
+        "epoc"
+    ],
+    "Ambiental": [
+        "riesgo_pluv_alto",
+        "riesgo_pluv_mod"
+    ],
+    "Costos": [
+        "avaluo_prom_imp",
+        "avaluo_tot_imp"
+    ],
+    "Demogr\u00e1fica": [
+        "tper_2018",
+        "tvivienda"
+    ],
+    "Econ\u00f3mica": [
+        "tp19_gas_1",
+        "tp19_ee_1",
+        "tp19_alc_1",
+        "tp19_acu_1",
+        "tp19_inte1",
+        "dens_emp_m2"
+    ],
+    "Socioecon\u00f3mica": [
+        "tp19_ee_e1",
+        "tp19_ee_e2",
+        "tp19_ee_e3",
+        "tp19_ee_e4",
+        "tp19_ee_e5",
+        "tp19_ee_e6"
+    ]
+}

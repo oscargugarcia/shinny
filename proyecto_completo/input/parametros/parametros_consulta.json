@@ -1,0 +1,16 @@
+{
+    "PAIS": "Colombia",
+    "DPTO_CDPMP": "13",
+    "MPIO_CDPMP": [
+        "13001"
+    ],
+    "DIR": "Cra. 49 #30a-33",
+    "COORDS": "",
+    "INDICADORES": [
+        "TP51SUPERI",
+        "TP27_PERSO"
+    ],
+    "TIPO": "isocrona",
+    "MOD_TRANS": "vehiculo",
+    "INTERVALO": 20
+}
