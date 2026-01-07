@@ -46,9 +46,9 @@ with open(os.path.join(INPUT_PARAMS_DIR, "nombres_variables.json")) as f:
 
 
 # Llaves de API
-API_MB = "pk.eyJ1Ijoib2dhcmNpYS1pbnNpZ2h0IiwiYSI6ImNtZ3VuOWxubjAweDUya3NjaDRxbmNuaXEifQ.vBrChpyouID31_frDXWaUw"
-API_ORS = "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImM5NWNmOGVmMTcwNjRjNjc4YTQ3MzNiMGE0NWVmMTk3IiwiaCI6Im11cm11cjY0In0="
-API_OPENAI = "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"
+API_MB = ""
+API_ORS = ""
+API_OPENAI = ""
 API_D = {"isocrona": API_MB, "equidistancia": API_ORS}
 
 # Diccionarios --- Estos deberían ser generados y cargados
